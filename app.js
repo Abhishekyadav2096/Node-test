@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  return res.send("ABHISHEK YADAV DEVLOPER");
+  return res.send("ABHISHEK YADAV DEV");
 });
 
 app.listen(3000, () => {
