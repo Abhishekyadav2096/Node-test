@@ -3,6 +3,6 @@ services:
   web:
     image: abhi2096/node-test:latest
     ports:
-      - "3000:3000"
+      - "4000:4000"
 
 
